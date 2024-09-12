@@ -48,8 +48,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Pandababyupdates")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/PandaLovebaby")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/sex_video_leaks")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/sex_video_leaks")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -89,31 +89,31 @@ confirmer = {}
 START_IMG_URL = ["https://envs.sh/PNj.mp4", "https://envs.sh/PNc.mp4", "https://envs.sh/PNZ.mp4", "https://envs.sh/PN4.mp4", "https://envs.sh/PNl.mp4", "https://envs.sh/PN8.mp4", "https://envs.sh/PN7.mp4", "https://envs.sh/PNJ.mp4", "https://envs.sh/PNZ.mp4", "https://envs.sh/PNH.mp4", "https://envs.sh/PNf.mp4", "https://envs.sh/PNO.mp4", "https://envs.sh/PNm.mp4", "https://envs.sh/PNM.mp4", "https://envs.sh/PNM.mp4"]
 STATS_IMG_URL = ["https://envs.sh/PNI.jpg", "https://envs.sh/PNB.jpg", "https://envs.sh/PNq.jpg", "https://envs.sh/P_d.jpg", "https://envs.sh/Pc3.jpg", "https://envs.sh/PNq.jpg", "https://envs.sh/P_2.jpg"]
 PLAYLIST_IMG_URL = getenv(
-    "PLAYLIST_IMG_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
+    "PLAYLIST_IMG_URL", "https://envs.sh/PHd.jpg"
 )
 TELEGRAM_AUDIO_URL = getenv(
-    "TELEGRAM_AUDIO_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
+    "TELEGRAM_AUDIO_URL", "https://envs.sh/PHh.jpg"
 )
 TELEGRAM_VIDEO_URL = getenv(
-    "TELEGRAM_VIDEO_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
+    "TELEGRAM_VIDEO_URL", "https://envs.sh/PHQ.jpg"
 )
 STREAM_IMG_URL = getenv(
-    "STREAM_IMG_URL", "https://te.legra.ph/file/693694b0d94afa372ca5a.jpg"
+    "STREAM_IMG_URL", "https://envs.sh/PHE.jpg"
 )
 SOUNCLOUD_IMG_URL = getenv(
-    "SOUNCLOUD_IMG_URL", "https://te.legra.ph/file/f72ea4bd955c418c724e1.jpg"
+    "SOUNCLOUD_IMG_URL", "https://envs.sh/PHD.jpg"
 )
 YOUTUBE_IMG_URL = getenv(
-    "YOUTUBE_IMG_URL", "https://telegra.ph/file/5547c6a0bcfc016089088.png"
+    "YOUTUBE_IMG_URL", "https://envs.sh/PN-.jpg"
 )
 SPOTIFY_ARTIST_IMG_URL = getenv(
-    "SPOTIFY_ARTIST_IMG_URL", "https://te.legra.ph/file/c3682dc6fd740b2dac969.jpg"
+    "SPOTIFY_ARTIST_IMG_URL", "https://envs.sh/PNV.jpg"
 )
 SPOTIFY_ALBUM_IMG_URL = getenv(
-    "SPOTIFY_ALBUM_IMG_URL", "https://te.legra.ph/file/c3682dc6fd740b2dac969.jpg"
+    "SPOTIFY_ALBUM_IMG_URL", "https://envs.sh/PNx.jpg"
 )
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
-    "SPOTIFY_PLAYLIST_IMG_URL", "https://te.legra.ph/file/c3682dc6fd740b2dac969.jpg"
+    "SPOTIFY_PLAYLIST_IMG_URL", "https://envs.sh/PHu.jpg"
 )
 
 
